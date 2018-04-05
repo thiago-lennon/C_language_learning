@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522892248 source:c:\wamp64\www\git\c_language_learning\comandos_controle\magicnumber2\magicnumber2\main.c
+	<stdio.h>
+	<stdlib.h>
+
